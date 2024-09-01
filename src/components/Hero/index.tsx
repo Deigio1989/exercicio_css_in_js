@@ -1,4 +1,3 @@
-import styles from './Hero.module.css'
 import React from 'react'
 import { Hero as HeroStyle, HeroTitulo } from './Hero'
 
